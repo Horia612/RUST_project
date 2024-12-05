@@ -1,2 +1,2 @@
 # RUST_project
-rust 
+rust project for practice
